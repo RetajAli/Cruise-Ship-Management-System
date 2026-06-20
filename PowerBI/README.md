@@ -1,3 +1,9 @@
-Power BI Dashboard
+# Power BI Dashboard
 
-This folder contains the Power BI dashboard and data visualization files used for project reporting and analysis.
+This folder contains the Power BI dashboard developed for analyzing Cruise Ship Management System data.
+
+The dashboard provides:
+- Reservation Analysis
+- Customer Statistics
+- Revenue Insights
+- Operational Reporting
