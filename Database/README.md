@@ -1,3 +1,12 @@
-Database Files
+# Microsoft Access Database
 
-This folder contains the Microsoft Access database used in the Cruise Ship Management System project, including tables, queries, forms, and reports.
+This folder contains the Microsoft Access implementation of the Cruise Ship Management System.
+
+Features:
+- Tables
+- Relationships
+- Queries
+- Forms
+- Reports
+
+The database manages customers, reservations, cruise ships, rooms, employees, departments, activities, and billing information.
