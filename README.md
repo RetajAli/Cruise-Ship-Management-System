@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Cruise Ship Management System is a comprehensive database management project developed to manage cruise ship operations efficiently.
+The Cruise Ship Management System is a comprehensive academic project that combines database management, software engineering, business intelligence, and user interface design to support cruise ship operations efficiently.
 
-The project covers the complete database development lifecycle, including system analysis, database design, implementation, reporting, and data visualization.
+The project covers the complete software development lifecycle, including requirements analysis, system design, database modeling, implementation, reporting, and data visualization.
 
-The system manages customers, reservations, rooms, cruise ships, activities, employees, departments, billing, and payments.
+The system manages customers, reservations, rooms, cruise ships, activities, employees, departments, billing, and payments through an integrated management platform.
 
 ---
 
@@ -19,6 +19,8 @@ The system manages customers, reservations, rooms, cruise ships, activities, emp
 * Manage employees and departments
 * Generate reports and business insights
 * Visualize operational data using Power BI
+* Apply software engineering methodologies and UML modeling
+* Design user-friendly graphical interfaces
 
 ---
 
@@ -27,9 +29,11 @@ The system manages customers, reservations, rooms, cruise ships, activities, emp
 * MySQL
 * Microsoft Access
 * Power BI
-* Entity Relationship Modeling (ERD)
 * SQL
+* UML Modeling
+* Draw.io
 * Database Design and Mapping
+* Software Engineering Principles
 
 ---
 
@@ -37,15 +41,15 @@ The system manages customers, reservations, rooms, cruise ships, activities, emp
 
 ### Documentation
 
-Contains project documentation, case study reports, and query documentation.
+Contains project documentation, case studies, Software Requirements Specification (SRS), SQL documentation, and supporting project materials.
 
 ### Database Design
 
-Contains the Entity Relationship Diagram (ERD), database mapping, and relational schema design.
+Contains the Entity Relationship Diagram (ERD), relational mapping, and database schema design.
 
-### Microsoft Access
+### Database
 
-Contains the Microsoft Access implementation including tables, forms, queries, reports, and relationships.
+Contains the Microsoft Access implementation including tables, forms, reports, queries, and relationships.
 
 ### MySQL
 
@@ -61,11 +65,26 @@ Contains SQL scripts for:
 
 ### Power BI
 
-Contains the Power BI dashboard used for data analysis and reporting.
+Contains the Power BI dashboard used for data analysis, visualization, and reporting.
+
+### Software Engineering
+
+Contains UML diagrams and system analysis artifacts, including:
+
+* Use Case Diagram
+* Misuse Case Diagram
+* Activity Diagrams
+* Sequence Diagrams
+* State Machine Diagram
+* Class Diagram
+
+### GUI
+
+Contains the graphical user interface (GUI) prototype developed for the Cruise Ship Management System.
 
 ### Presentation
 
-Contains the project presentation.
+Contains project presentations used for demonstrations, evaluations, and project reviews.
 
 ---
 
@@ -73,37 +92,44 @@ Contains the project presentation.
 
 ### Customer Management
 
-Stores customer information, contact details, and trip information.
+Stores customer information, contact details, trip information, and reservation history.
 
 ### Reservation Management
 
-Handles reservations, booking dates, and trip scheduling.
+Handles reservations, booking dates, room assignments, and trip scheduling.
 
 ### Room Management
 
-Manages room allocation and room availability.
+Manages room allocation, room types, and availability tracking.
 
 ### Cruise Ship Management
 
-Manages cruise ship information, destinations, and operations.
+Maintains cruise ship information, destinations, and onboard services.
 
 ### Activities Management
 
-Tracks customer activities and entertainment options.
+Tracks entertainment activities and customer participation.
 
 ### Employee and Department Management
 
-Stores employee records and departmental information.
+Manages employee records, departments, and organizational structure.
 
 ### Billing and Payments
 
-Manages bills, payments, and financial transactions.
+Handles billing information, payment records, and financial transactions.
+
+### Business Intelligence and Reporting
+
+Provides operational insights and visual analytics through Power BI dashboards.
 
 ---
 
 ## Project Deliverables
 
-* ERD Design
+* Software Requirements Specification (SRS)
+* Project Documentation
+* Case Study Analysis
+* Entity Relationship Diagram (ERD)
 * Database Mapping
 * Microsoft Access Database
 * MySQL Implementation
@@ -112,6 +138,13 @@ Manages bills, payments, and financial transactions.
 * Stored Procedures
 * Functions
 * Triggers
+* UML Diagrams
+* GUI Prototype
 * Power BI Dashboard
-* Project Documentation
-* Project Presentation
+* Project Presentations
+
+---
+
+## Academic Purpose
+
+This project was developed as part of university coursework to demonstrate practical skills in software engineering, database design, business intelligence, system analysis, and project documentation.
