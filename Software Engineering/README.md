@@ -11,6 +11,5 @@ Contents:
 - Sequence Diagram
 - State Machine Diagram
 - Class Diagram
-- GUI Design Mockups
 
 These artifacts were created during the system analysis and design phase to define requirements, model system behavior, and design the user interface before implementation.
