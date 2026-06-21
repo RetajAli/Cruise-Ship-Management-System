@@ -1,15 +1,18 @@
 # Software Engineering Artifacts
 
-This folder contains the software engineering and system analysis deliverables for the Cruise Ship Management System.
+This folder contains the software engineering models and design artifacts for the Cruise Ship Management System.
 
-Contents:
+## Contents
 
-- Software Requirements Specification (SRS)
-- Use Case Diagram
-- Misuse Case Diagram
-- Activity Diagrams
-- Sequence Diagram
-- State Machine Diagram
-- Class Diagram
+* Use Case Diagram
+* Misuse Case Diagram
+* Class Diagram
+* State Machine Diagram
+* Activity Diagrams
+* Sequence Diagrams
 
-These artifacts were created during the system analysis and design phase to define requirements, model system behavior, and design the user interface before implementation.
+## Description
+
+These artifacts were developed during the system analysis and design phase to model system requirements, workflows, user interactions, and software architecture before implementation.
+
+The diagrams provide a visual representation of the Cruise Ship Management System and support the planning, analysis, and design process.
